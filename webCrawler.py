@@ -1,5 +1,5 @@
 #Module to request information from a webpage
-import request
+import requests
 
 #Beautiful soup allows for neat and easy access to links
 from bs4 import BeautifulSoup
