@@ -1,6 +1,8 @@
 # WebCrawler
 Development of two versions of a web crawler 
 
-One using Python.
+Versions
+-----------------
 
-Second using C++.
+1. Python Based
+2. C++ Based
